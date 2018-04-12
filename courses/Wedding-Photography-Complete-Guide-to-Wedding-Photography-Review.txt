@@ -1,0 +1,22 @@
+---
+title: 'Wedding Photography: Complete Guide to Wedding Photography Review'
+image: images/Wedding-Photography-Complete-Guide-to-Wedding-Photography-Review.jpeg
+thumb: images/Wedding-Photography-Complete-Guide-to-Wedding-Photography-Review.jpeg
+alt: 'Wedding Photography: Complete Guide to Wedding Photography Review'
+instructors: Phil Ebiner
+metades: >-
+  "Learn exactly how to become a wedding photographer, start a photo business of
+  your own, and shoot better wedding photos."
+categories: wedding photography
+language: English
+udemyUrlenc: https%3A%2F%2Fwww.udemy.com%2Fwedding-photography-course%2F
+udemyUrl: 'https://www.udemy.com/wedding-photography-course/'
+about_instructor: ''
+video_handle: ''
+summary: ''
+review_p1: ''
+review_p2: ''
+agent: 'Katharina'
+draft: true
+---
+
