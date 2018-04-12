@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instructors on Udemy Courses Reviews</title>
+    <link>http://courseprobe.com/instructors/</link>
+    <description>Recent content in Instructors on Udemy Courses Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://courseprobe.com/instructors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

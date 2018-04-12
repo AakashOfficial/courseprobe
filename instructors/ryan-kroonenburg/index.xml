@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Kroonenburg on Udemy Courses Reviews</title>
+    <link>/courseprobe/instructors/ryan-kroonenburg/</link>
+    <description>Recent content in Ryan Kroonenburg on Udemy Courses Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/courseprobe/instructors/ryan-kroonenburg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS Certified Solutions Architect - Associate 2018 Review</title>
+      <link>/courseprobe/courses/aws-certified-solutions-architect-associate-2018-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/courseprobe/courses/aws-certified-solutions-architect-associate-2018-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

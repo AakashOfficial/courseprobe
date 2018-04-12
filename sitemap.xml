@@ -3,276 +3,120 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courseprobe/affiliatedisclaimer/</loc>
+    <loc>http://courseprobe.com/affiliatedisclaimer/</loc>
   </url>
   
   <url>
-    <loc>/courseprobe/contactus/</loc>
+    <loc>http://courseprobe.com/contactus/</loc>
   </url>
   
   <url>
-    <loc>/courseprobe/disclaimer/</loc>
+    <loc>http://courseprobe.com/courses/-1-sourdough-bread-baking-101-review/</loc>
   </url>
   
   <url>
-    <loc>/courseprobe/faq/</loc>
+    <loc>http://courseprobe.com/courses/-7-bake-the-best-pizza-crust-review/</loc>
   </url>
   
   <url>
-    <loc>/courseprobe/privacypolicy/</loc>
+    <loc>http://courseprobe.com/courses/anime-drawing-for-beginners-review/</loc>
   </url>
   
   <url>
-    <loc>/courseprobe/courses/aws-certified-solutions-architect-associate-2018-review/</loc>
+    <loc>http://courseprobe.com/courses/the-complete-search-engine-optimization-seo-bootcamp-2018-review/</loc>
   </url>
   
   <url>
-    <loc>/courseprobe/categories/academics/</loc>
+    <loc>http://courseprobe.com/courses/udemy-course-creation-and-promotion-mastery-unofficial-review/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/courses/ultimate-google-adwords-course-2017-stop-seo-win-with-ppc-review/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/courses/wordpress-for-beginners-master-wordpress-quickly-review/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/courses/yoga-medicine-s-guide-to-therapeutic-yoga-review/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/courses/youtube-affiliate-marketing-mastery-review/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/courses/youtube-masterclass-your-complete-guide-to-youtube-review/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/courses/your-7-chakras-the-complete-guide-to-your-energy-body-review/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/courses/zero-to-deep-learning-with-python-and-keras-review/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/courses/ebay-drop-shipping-guide-with-no-inventory-work-from-home-review/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/courses/iphone-photography-take-professional-photos-on-your-iphone-review/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/disclaimer/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/privacypolicy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/courseprobe/instructors/allen-wyatt/</loc>
+    <loc>http://courseprobe.com/courses/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/courseprobe/courses/amazon-web-services-certification-aws-2018-all-4-certs-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/an-entire-mba-in-1-course-award-winning-business-school-prof-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/anatomy-for-figure-drawing-mastering-the-human-figure-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/backspace-academy/</loc>
+    <loc>http://courseprobe.com/categories/general/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/courseprobe/courses/become-a-great-singer-your-complete-vocal-training-system-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/become-an-algebra-master-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/categories/business/</loc>
+    <loc>http://courseprobe.com/instructors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/courseprobe/categories/</loc>
+    <loc>http://courseprobe.com/latest-courses/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/staff-picks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/top-courses/top-javascript-courses-2018/</loc>
+  </url>
+  
+  <url>
+    <loc>http://courseprobe.com/top-courses/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/courseprobe/courses/character-art-school-complete-character-drawing-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/chris-haroun/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/colt-steele/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/creating-vba-userforms-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/crucial-concepts-in-dog-behavior-training-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/data-science-a-z-real-life-data-science-exercises-included-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/categories/design/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/categories/development/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/categories/general/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/greycampus-inc./</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/how-to-establish-your-llc-in-texas-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/how-to-start-a-business-making-lyric-videos-for-artists-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/ian-dunbar/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/categories/it--software/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/jorge-sanchez/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/krista-king/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/learn-to-paint-with-impact-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/libby-seery---founder-of-renaissance-life-therapies/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/categories/lifestyle/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/malcolm-dewey/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/categories/marketing/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/miguel-escobar/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/categories/music/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/neil-fontaine/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/categories/office-productivity/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/categories/photography/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/power-query-for-excel-and-power-bi-introductory-level-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/prince2-foundation-training-2017-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/rob-level/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/rob-percival/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/robert-lunte/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/ryan-kroonenburg/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/instructors/scott-harris/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/categories/test-prep/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/the-advanced-web-developer-bootcamp-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/the-complete-digital-marketing-course-12-courses-in-1-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/the-modern-python-3-bootcamp-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/courses/the-web-developer-bootcamp-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/top-courses/top-javascript-courses-2018/</loc>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/top-courses/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courseprobe/</loc>
+    <loc>http://courseprobe.com/</loc>
     <priority>0</priority>
   </url>
   
