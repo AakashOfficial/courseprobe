@@ -2,74 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on Udemy Courses Reviews</title>
-    <link>http://courseprobe.com/categories/general/</link>
+    <link>https://courseprobe.com/categories/general/</link>
     <description>Recent content in General on Udemy Courses Reviews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://courseprobe.com/categories/general/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://courseprobe.com/categories/general/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://courseprobe.com/affiliatedisclaimer/</link>
+      <link>https://courseprobe.com/affiliatedisclaimer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://courseprobe.com/affiliatedisclaimer/</guid>
+      <guid>https://courseprobe.com/affiliatedisclaimer/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://courseprobe.com/contactus/</link>
+      <link>https://courseprobe.com/contactus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://courseprobe.com/contactus/</guid>
+      <guid>https://courseprobe.com/contactus/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://courseprobe.com/disclaimer/</link>
+      <link>https://courseprobe.com/disclaimer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://courseprobe.com/disclaimer/</guid>
+      <guid>https://courseprobe.com/disclaimer/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://courseprobe.com/faq/</link>
+      <link>https://courseprobe.com/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://courseprobe.com/faq/</guid>
+      <guid>https://courseprobe.com/faq/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://courseprobe.com/privacypolicy/</link>
+      <link>https://courseprobe.com/privacypolicy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://courseprobe.com/privacypolicy/</guid>
+      <guid>https://courseprobe.com/privacypolicy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latest Courses Reviewed by Courseprobe</title>
-      <link>http://courseprobe.com/latest-courses/</link>
+      <link>https://courseprobe.com/latest-courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://courseprobe.com/latest-courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Staff Picks courses by Courseprobe</title>
-      <link>http://courseprobe.com/staff-picks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://courseprobe.com/staff-picks/</guid>
+      <guid>https://courseprobe.com/latest-courses/</guid>
       <description></description>
     </item>
     
