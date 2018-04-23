@@ -96,6 +96,11 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/instructors/alan-jarvis/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/instructors/alan-kirwan/</loc>
     <priority>0</priority>
   </url>
@@ -121,6 +126,11 @@
   
   <url>
     <loc>https://courseprobe.com/courses/an-entire-mba-in-1-course-award-winning-business-school-prof-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/categories/analytics--automation/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -319,6 +329,10 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/courses/ccna-2018-200-125-video-boot-camp-with-chris-bryant-review/</loc>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/courses/calculus-and-analytical-geometry-review/</loc>
   </url>
   
@@ -344,6 +358,11 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/instructors/charlie-borland/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/categories/chinese/</loc>
     <priority>0</priority>
   </url>
@@ -353,12 +372,25 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/instructors/chris-bryant/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/instructors/chris-haroun/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://courseprobe.com/courses/cinematography-course-shoot-better-video-with-any-camera-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/courses/cisco-ccna-200-125-the-complete-guide-to-getting-certified-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/courses/cisco-new-ccna-r-s-200-125-the-complete-course-review/</loc>
   </url>
   
   <url>
@@ -410,11 +442,20 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/courses/control-anxiety-depression-non-medicated-solutions-review/</loc>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/courses/copywriting-become-a-freelance-copywriter-your-own-boss-review/</loc>
   </url>
   
   <url>
     <loc>https://courseprobe.com/courses/copywriting-secrets-how-to-write-copy-that-sells-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/instructors/corey-rabazinski/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -424,6 +465,10 @@
   <url>
     <loc>https://courseprobe.com/courses/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/courses/create-game-characters-with-blender-review/</loc>
   </url>
   
   <url>
@@ -442,7 +487,23 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/courses/critical-thinker-academy-learn-to-think-like-a-philosopher-review/</loc>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/courses/crucial-concepts-in-dog-behavior-training-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/courses/cryptocurrency-investment-course-2018-fund-your-retirement-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/courses/cryptocurrency-trading-course-2018-make-profits-daily-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/courses/dslr-video-production-start-shooting-better-video-today-review/</loc>
   </url>
   
   <url>
@@ -471,6 +532,11 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/instructors/darrin-lile/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/categories/data--analytics/</loc>
     <priority>0</priority>
   </url>
@@ -481,6 +547,11 @@
   
   <url>
     <loc>https://courseprobe.com/instructors/data-weekends/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/instructors/david-bombal/</loc>
     <priority>0</priority>
   </url>
   
@@ -533,6 +604,10 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/courses/editing-mastery-how-to-edit-writing-to-perfection-review/</loc>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/instructors/el-gale/</loc>
     <priority>0</priority>
   </url>
@@ -570,6 +645,14 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/courses/excel-essentials-the-complete-excel-series-level-1-2-3-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/courses/excel-with-top-microsoft-excel-hacks-review/</loc>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/instructors/expert-academy/</loc>
     <priority>0</priority>
   </url>
@@ -580,12 +663,21 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/courses/faster-than-calculator-super-speed-your-math-review/</loc>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/instructors/felix-harder/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://courseprobe.com/instructors/felix-l%C3%A4ttman/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/categories/finance/</loc>
     <priority>0</priority>
   </url>
   
@@ -634,8 +726,16 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/courses/german-made-simple-a-complete-course-for-serious-learners-review/</loc>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/instructors/glitchybot-learn/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/courses/google-analytics-for-beginners-review/</loc>
   </url>
   
   <url>
@@ -686,7 +786,15 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/courses/how-to-create-a-course-outline-fast-for-online-instructors-review/</loc>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/courses/how-to-draw-heads-step-by-step-from-any-angle-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/courses/how-to-generate-passive-income-with-no-initial-funds-review/</loc>
   </url>
   
   <url>
@@ -702,7 +810,24 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/courses/how-to-be-a-professional-outdoor-and-nature-photographer-review/</loc>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/courses/how-to-completely-cure-anxiety-forever-without-medication-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/courses/how-to-prepare-the-amazing-moroccan-tea-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/categories/humanities/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/courses/hypnotherapy-certification-course-hypnosis-practitioner-review/</loc>
   </url>
   
   <url>
@@ -711,8 +836,17 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/instructors/ian-stables/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/instructors/indie-media/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/courses/infinite-mind-acquire-photographic-memory-become-a-genius-review/</loc>
   </url>
   
   <url>
@@ -726,12 +860,22 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/instructors/ingo-depner/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/instructors/innovative-language/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://courseprobe.com/courses/instagram-marketing-2018-a-step-by-step-to-10-000-followers-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/categories/instructional-design/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -760,6 +904,11 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/categories/italian/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/instructors/jane-cui/</loc>
     <priority>0</priority>
   </url>
@@ -771,6 +920,11 @@
   
   <url>
     <loc>https://courseprobe.com/instructors/jason-dion/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/instructors/jessica-brown/</loc>
     <priority>0</priority>
   </url>
   
@@ -810,6 +964,11 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/instructors/kevin-delaplante/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/instructors/kirill-eremenko/</loc>
     <priority>0</priority>
   </url>
@@ -821,6 +980,11 @@
   
   <url>
     <loc>https://courseprobe.com/instructors/kunal-ghosh/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/instructors/kyle-pew/</loc>
     <priority>0</priority>
   </url>
   
@@ -839,6 +1003,11 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/instructors/lazaro-diaz/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/instructors/lazy-programmer-inc./</loc>
     <priority>0</priority>
   </url>
@@ -850,6 +1019,10 @@
   
   <url>
     <loc>https://courseprobe.com/courses/learn-german-language-complete-german-course-beginners-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/courses/learn-italian-language-complete-italian-course-beginners-review/</loc>
   </url>
   
   <url>
@@ -1000,6 +1173,11 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/instructors/merouane-el-hatimy/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/instructors/michael-neill/</loc>
     <priority>0</priority>
   </url>
@@ -1057,6 +1235,16 @@
   
   <url>
     <loc>https://courseprobe.com/instructors/musicians-inspired/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/instructors/nasif-sufian/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/instructors/neil-anderson/</loc>
     <priority>0</priority>
   </url>
   
@@ -1161,6 +1349,11 @@
   
   <url>
     <loc>https://courseprobe.com/instructors/rajeev-sakhuja/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/instructors/rajinder-goswami/</loc>
     <priority>0</priority>
   </url>
   
@@ -1354,6 +1547,10 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/courses/the-complete-networking-fundamentals-course-your-ccna-start-review/</loc>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/courses/the-complete-piano-music-theory-beginners-course-review/</loc>
   </url>
   
@@ -1408,6 +1605,10 @@
   <url>
     <loc>https://courseprobe.com/instructors/tiffany-cruikshank/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://courseprobe.com/top-courses/top-4-prep-courses-to-become-ccna-certified-under-10/</loc>
   </url>
   
   <url>
