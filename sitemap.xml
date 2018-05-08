@@ -1367,6 +1367,11 @@
   </url>
   
   <url>
+    <loc>https://courseprobe.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://courseprobe.com/courses/online-japanese-beginner-course-all-12-lessons-review/</loc>
   </url>
   
@@ -1804,11 +1809,6 @@
   
   <url>
     <loc>https://courseprobe.com/courses/udemy-course-creation-and-promotion-mastery-unofficial-review/</loc>
-  </url>
-  
-  <url>
-    <loc>https://courseprobe.com/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
