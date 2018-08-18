@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam Ward on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/adam-ward/</link>
+    <description>Recent content in Adam Ward on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/adam-ward/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn How To Brew Beer At Home In 5 Easy Steps Review</title>
+      <link>https://courseprobe.com/courses/learn-how-to-brew-beer-at-home-in-5-easy-steps-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/learn-how-to-brew-beer-at-home-in-5-easy-steps-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

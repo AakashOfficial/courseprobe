@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Sharp on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/tim-sharp/</link>
+    <description>Recent content in Tim Sharp on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/tim-sharp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Complete Shopify Aliexpress Dropship course Review</title>
+      <link>https://courseprobe.com/courses/the-complete-shopify-aliexpress-dropship-course-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/the-complete-shopify-aliexpress-dropship-course-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complete WordPress Aliexpress Dropship course Review</title>
+      <link>https://courseprobe.com/courses/the-complete-wordpress-aliexpress-dropship-course-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/the-complete-wordpress-aliexpress-dropship-course-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

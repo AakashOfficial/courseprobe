@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kasia Zmokla on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/kasia-zmokla/</link>
+    <description>Recent content in Kasia Zmokla on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/kasia-zmokla/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Master Color in Photoshop CC Review</title>
+      <link>https://courseprobe.com/courses/master-color-in-photoshop-cc-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/master-color-in-photoshop-cc-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portrait Photography Masterclass - Photoshop Pro Techniques Review</title>
+      <link>https://courseprobe.com/courses/portrait-photography-masterclass-photoshop-pro-techniques-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/portrait-photography-masterclass-photoshop-pro-techniques-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

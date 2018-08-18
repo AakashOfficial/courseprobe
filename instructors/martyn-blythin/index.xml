@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martyn Blythin on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/martyn-blythin/</link>
+    <description>Recent content in Martyn Blythin on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/martyn-blythin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started with Excel - The Basics Review</title>
+      <link>https://courseprobe.com/courses/getting-started-with-excel-the-basics-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/getting-started-with-excel-the-basics-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geoffrey Hubona Ph.d. on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/geoffrey-hubona-ph.d./</link>
+    <description>Recent content in Geoffrey Hubona Ph.d. on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/geoffrey-hubona-ph.d./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linear Mixed-Effects Models with R Review</title>
+      <link>https://courseprobe.com/courses/linear-mixed-effects-models-with-r-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/linear-mixed-effects-models-with-r-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural equation modeling (SEM) with lavaan Review</title>
+      <link>https://courseprobe.com/courses/structural-equation-modeling-sem-with-lavaan-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/structural-equation-modeling-sem-with-lavaan-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

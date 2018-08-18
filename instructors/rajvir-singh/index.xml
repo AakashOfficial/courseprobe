@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rajvir Singh on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/rajvir-singh/</link>
+    <description>Recent content in Rajvir Singh on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/rajvir-singh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn 5 PLCs in a Day-AB, Siemens, Schneider, Omron &amp; Delta Review</title>
+      <link>https://courseprobe.com/courses/learn-5-plcs-in-a-day-ab-siemens-schneider-omron-delta-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/learn-5-plcs-in-a-day-ab-siemens-schneider-omron-delta-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn SCADA from Scratch - Design, Program and Interface Review</title>
+      <link>https://courseprobe.com/courses/learn-scada-from-scratch-design-program-and-interface-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/learn-scada-from-scratch-design-program-and-interface-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

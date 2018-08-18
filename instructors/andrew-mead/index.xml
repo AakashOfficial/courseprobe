@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Mead on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/andrew-mead/</link>
+    <description>Recent content in Andrew Mead on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/andrew-mead/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Complete Node.js Developer Course (2nd Edition) Review</title>
+      <link>https://courseprobe.com/courses/the-complete-node-js-developer-course-2nd-edition-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/the-complete-node-js-developer-course-2nd-edition-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complete React Web Developer Course (with Redux) Review</title>
+      <link>https://courseprobe.com/courses/the-complete-react-web-developer-course-with-redux-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/the-complete-react-web-developer-course-with-redux-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

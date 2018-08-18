@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grant Gamble on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/grant-gamble/</link>
+    <description>Recent content in Grant Gamble on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/grant-gamble/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microsoft Word VBA Macro Programming - Introduction Review</title>
+      <link>https://courseprobe.com/courses/microsoft-word-vba-macro-programming-introduction-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/microsoft-word-vba-macro-programming-introduction-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enrique Galicia on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/enrique-galicia/</link>
+    <description>Recent content in Enrique Galicia on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/enrique-galicia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autodesk Revit 2015 Architecture Professional Certificate Review</title>
+      <link>https://courseprobe.com/courses/autodesk-revit-2015-architecture-professional-certificate-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/autodesk-revit-2015-architecture-professional-certificate-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

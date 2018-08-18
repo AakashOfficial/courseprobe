@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Porcelli on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/max-porcelli/</link>
+    <description>Recent content in Max Porcelli on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/max-porcelli/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn How to Become a DJ with Traktor Part I Review</title>
+      <link>https://courseprobe.com/courses/learn-how-to-become-a-dj-with-traktor-part-i-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/learn-how-to-become-a-dj-with-traktor-part-i-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn How to Make Electronic Music with Cubase Review</title>
+      <link>https://courseprobe.com/courses/learn-how-to-make-electronic-music-with-cubase-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/learn-how-to-make-electronic-music-with-cubase-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

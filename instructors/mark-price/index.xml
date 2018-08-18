@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Price on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/mark-price/</link>
+    <description>Recent content in Mark Price on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/mark-price/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beginner Full Stack Web Development: HTML, CSS, React &amp; Node Review</title>
+      <link>https://courseprobe.com/courses/beginner-full-stack-web-development-html-css-react-node-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/beginner-full-stack-web-development-html-css-react-node-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity Game Development Academy: Make 2D &amp; 3D Games Review</title>
+      <link>https://courseprobe.com/courses/unity-game-development-academy-make-2d-3d-games-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/unity-game-development-academy-make-2d-3d-games-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS 10 &amp; Swift 3: From Beginner to Paid Professional™ Review</title>
+      <link>https://courseprobe.com/courses/ios-10-swift-3-from-beginner-to-paid-professional-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/ios-10-swift-3-from-beginner-to-paid-professional-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS 11 &amp; Swift 4: From Beginner to Paid Professional™ Review</title>
+      <link>https://courseprobe.com/courses/ios-11-swift-4-from-beginner-to-paid-professional-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/ios-11-swift-4-from-beginner-to-paid-professional-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS 9 and Swift 2: From Beginner to Paid Professional™ Review</title>
+      <link>https://courseprobe.com/courses/ios-9-and-swift-2-from-beginner-to-paid-professional-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/ios-9-and-swift-2-from-beginner-to-paid-professional-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

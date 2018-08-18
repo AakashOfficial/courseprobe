@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brett Bergen on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/brett-bergen/</link>
+    <description>Recent content in Brett Bergen on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/brett-bergen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2 Hour Genius: Powerful Learning Strategies for Students Review</title>
+      <link>https://courseprobe.com/courses/2-hour-genius-powerful-learning-strategies-for-students-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/2-hour-genius-powerful-learning-strategies-for-students-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

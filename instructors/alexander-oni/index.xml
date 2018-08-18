@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Oni on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/alexander-oni/</link>
+    <description>Recent content in Alexander Oni on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/alexander-oni/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WordPress SEO - The Complete Yoast SEO Plugin Tutorial Review</title>
+      <link>https://courseprobe.com/courses/wordpress-seo-the-complete-yoast-seo-plugin-tutorial-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/wordpress-seo-the-complete-yoast-seo-plugin-tutorial-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

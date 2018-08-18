@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Cassidy on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/tom-cassidy/</link>
+    <description>Recent content in Tom Cassidy on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/tom-cassidy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Everyday Mind Mastery Review</title>
+      <link>https://courseprobe.com/courses/everyday-mind-mastery-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/everyday-mind-mastery-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasonable Teaching: The 13x4 to Master The Art of Teaching Review</title>
+      <link>https://courseprobe.com/courses/reasonable-teaching-the-13x4-to-master-the-art-of-teaching-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/reasonable-teaching-the-13x4-to-master-the-art-of-teaching-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Best Diet In The World: Reasonable Eating Review</title>
+      <link>https://courseprobe.com/courses/the-best-diet-in-the-world-reasonable-eating-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/the-best-diet-in-the-world-reasonable-eating-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

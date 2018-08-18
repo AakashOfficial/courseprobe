@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leo Dregier on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/leo-dregier/</link>
+    <description>Recent content in Leo Dregier on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/leo-dregier/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hack Multiple Choice Exams and Pass Review</title>
+      <link>https://courseprobe.com/courses/hack-multiple-choice-exams-and-pass-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/hack-multiple-choice-exams-and-pass-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

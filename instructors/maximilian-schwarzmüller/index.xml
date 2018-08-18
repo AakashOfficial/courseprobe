@@ -11,11 +11,29 @@
     
     
     <item>
-      <title>CSS - The Complete Guide (incl. Flexbox, Grid &amp; Sass) Review</title>
-      <link>https://courseprobe.com/courses/css-the-complete-guide-incl-flexbox-grid-sass-review/</link>
+      <title>Angular &amp; NodeJS - The MEAN Stack Guide Review</title>
+      <link>https://courseprobe.com/courses/angular-nodejs-the-mean-stack-guide-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://courseprobe.com/courses/css-the-complete-guide-incl-flexbox-grid-sass-review/</guid>
+      <guid>https://courseprobe.com/courses/angular-nodejs-the-mean-stack-guide-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular 6 (formerly Angular 2) - The Complete Guide Review</title>
+      <link>https://courseprobe.com/courses/angular-6-formerly-angular-2-the-complete-guide-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/angular-6-formerly-angular-2-the-complete-guide-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ionic 2/ Ionic 3 - Build iOS &amp; Android Apps with Angular Review</title>
+      <link>https://courseprobe.com/courses/ionic-2-ionic-3-build-ios-android-apps-with-angular-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/ionic-2-ionic-3-build-ios-android-apps-with-angular-review/</guid>
       <description></description>
     </item>
     
@@ -25,6 +43,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://courseprobe.com/courses/understanding-typescript-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vue JS 2 - The Complete Guide (incl. Vue Router &amp; Vuex) Review</title>
+      <link>https://courseprobe.com/courses/vue-js-2-the-complete-guide-incl-vue-router-vuex-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/vue-js-2-the-complete-guide-incl-vue-router-vuex-review/</guid>
       <description></description>
     </item>
     

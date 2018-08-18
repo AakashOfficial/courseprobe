@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gulab Chand Tejwani on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/gulab-chand-tejwani/</link>
+    <description>Recent content in Gulab Chand Tejwani on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/gulab-chand-tejwani/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>70-764 Administering a SQL Database Infrastructure Review</title>
+      <link>https://courseprobe.com/courses/70-764-administering-a-sql-database-infrastructure-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/70-764-administering-a-sql-database-infrastructure-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Certification for SQL server 70-761 Practice Test Review</title>
+      <link>https://courseprobe.com/courses/microsoft-certification-for-sql-server-70-761-practice-test-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/microsoft-certification-for-sql-server-70-761-practice-test-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

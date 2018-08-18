@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animate U on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/animate-u/</link>
+    <description>Recent content in Animate U on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/animate-u/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Global Business Skills in English for Your Career - BUS104 Review</title>
+      <link>https://courseprobe.com/courses/global-business-skills-in-english-for-your-career-bus104-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/global-business-skills-in-english-for-your-career-bus104-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing Strategy in 30 Minutes - BUS105 Review</title>
+      <link>https://courseprobe.com/courses/marketing-strategy-in-30-minutes-bus105-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/marketing-strategy-in-30-minutes-bus105-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

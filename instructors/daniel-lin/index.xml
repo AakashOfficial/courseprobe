@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Lin on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/daniel-lin/</link>
+    <description>Recent content in Daniel Lin on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/daniel-lin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CORE CHINESE 1: Build Up Chinese Foundations by Practice Review</title>
+      <link>https://courseprobe.com/courses/core-chinese-1-build-up-chinese-foundations-by-practice-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/core-chinese-1-build-up-chinese-foundations-by-practice-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CORE KOREAN 1: Build up Korean Foundations through Practice Review</title>
+      <link>https://courseprobe.com/courses/core-korean-1-build-up-korean-foundations-through-practice-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/core-korean-1-build-up-korean-foundations-through-practice-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

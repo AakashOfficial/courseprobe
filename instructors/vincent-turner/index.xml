@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent Turner on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/vincent-turner/</link>
+    <description>Recent content in Vincent Turner on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/vincent-turner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accounting in 60 Minutes - A Brief Introduction Review</title>
+      <link>https://courseprobe.com/courses/accounting-in-60-minutes-a-brief-introduction-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/accounting-in-60-minutes-a-brief-introduction-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

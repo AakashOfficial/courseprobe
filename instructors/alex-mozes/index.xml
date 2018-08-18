@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Mozes on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/alex-mozes/</link>
+    <description>Recent content in Alex Mozes on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/alex-mozes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Excel Deep Dive: Pivot Tables Workshop Review</title>
+      <link>https://courseprobe.com/courses/excel-deep-dive-pivot-tables-workshop-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/excel-deep-dive-pivot-tables-workshop-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

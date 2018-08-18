@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason Cannon on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/jason-cannon/</link>
+    <description>Recent content in Jason Cannon on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/jason-cannon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn Linux in 5 Days and Level Up Your Career Review</title>
+      <link>https://courseprobe.com/courses/learn-linux-in-5-days-and-level-up-your-career-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/learn-linux-in-5-days-and-level-up-your-career-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux Administration Bootcamp: Go from Beginner to Advanced Review</title>
+      <link>https://courseprobe.com/courses/linux-administration-bootcamp-go-from-beginner-to-advanced-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/linux-administration-bootcamp-go-from-beginner-to-advanced-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux Security and Hardening, The Practical Security Guide. Review</title>
+      <link>https://courseprobe.com/courses/linux-security-and-hardening-the-practical-security-guide-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/linux-security-and-hardening-the-practical-security-guide-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux for Beginners Review</title>
+      <link>https://courseprobe.com/courses/linux-for-beginners-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/linux-for-beginners-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell Scripting: Discover How to Automate Command Line Tasks Review</title>
+      <link>https://courseprobe.com/courses/shell-scripting-discover-how-to-automate-command-line-tasks-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/shell-scripting-discover-how-to-automate-command-line-tasks-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

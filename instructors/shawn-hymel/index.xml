@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shawn Hymel on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/shawn-hymel/</link>
+    <description>Recent content in Shawn Hymel on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/shawn-hymel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arduino Programming and Hardware Fundamentals with Hackster Review</title>
+      <link>https://courseprobe.com/courses/arduino-programming-and-hardware-fundamentals-with-hackster-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/arduino-programming-and-hardware-fundamentals-with-hackster-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Gruenbaum on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/peter-gruenbaum/</link>
+    <description>Recent content in Peter Gruenbaum on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/peter-gruenbaum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn API Technical Writing: JSON and XML for Writers Review</title>
+      <link>https://courseprobe.com/courses/learn-api-technical-writing-json-and-xml-for-writers-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/learn-api-technical-writing-json-and-xml-for-writers-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

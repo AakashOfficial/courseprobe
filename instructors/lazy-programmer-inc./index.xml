@@ -29,11 +29,29 @@
     </item>
     
     <item>
+      <title>Bayesian Machine Learning in Python: A/B Testing Review</title>
+      <link>https://courseprobe.com/courses/bayesian-machine-learning-in-python-a-b-testing-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/bayesian-machine-learning-in-python-a-b-testing-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Science: Deep Learning in Python Review</title>
       <link>https://courseprobe.com/courses/data-science-deep-learning-in-python-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://courseprobe.com/courses/data-science-deep-learning-in-python-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science: Natural Language Processing (NLP) in Python Review</title>
+      <link>https://courseprobe.com/courses/data-science-natural-language-processing-nlp-in-python-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/data-science-natural-language-processing-nlp-in-python-review/</guid>
       <description></description>
     </item>
     
@@ -70,6 +88,42 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://courseprobe.com/courses/deep-learning-convolutional-neural-networks-in-python-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning: Recurrent Neural Networks in Python Review</title>
+      <link>https://courseprobe.com/courses/deep-learning-recurrent-neural-networks-in-python-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/deep-learning-recurrent-neural-networks-in-python-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Deep Learning in Python Review</title>
+      <link>https://courseprobe.com/courses/modern-deep-learning-in-python-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/modern-deep-learning-in-python-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing with Deep Learning in Python Review</title>
+      <link>https://courseprobe.com/courses/natural-language-processing-with-deep-learning-in-python-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/natural-language-processing-with-deep-learning-in-python-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Machine Learning Hidden Markov Models in Python Review</title>
+      <link>https://courseprobe.com/courses/unsupervised-machine-learning-hidden-markov-models-in-python-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/unsupervised-machine-learning-hidden-markov-models-in-python-review/</guid>
       <description></description>
     </item>
     

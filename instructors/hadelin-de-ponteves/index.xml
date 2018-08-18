@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hadelin De Ponteves on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/hadelin-de-ponteves/</link>
+    <description>Recent content in Hadelin De Ponteves on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/hadelin-de-ponteves/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artificial Intelligence A-Z™: Learn How To Build An AI Review</title>
+      <link>https://courseprobe.com/courses/artificial-intelligence-a-z-learn-how-to-build-an-ai-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/artificial-intelligence-a-z-learn-how-to-build-an-ai-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain A-Z™: Learn How To Build Your First Blockchain Review</title>
+      <link>https://courseprobe.com/courses/blockchain-a-z-learn-how-to-build-your-first-blockchain-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/blockchain-a-z-learn-how-to-build-your-first-blockchain-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning and Computer Vision A-Z™: OpenCV, SSD &amp; GANs Review</title>
+      <link>https://courseprobe.com/courses/deep-learning-and-computer-vision-a-z-opencv-ssd-gans-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/deep-learning-and-computer-vision-a-z-opencv-ssd-gans-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

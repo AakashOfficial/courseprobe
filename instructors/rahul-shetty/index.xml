@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rahul Shetty on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/rahul-shetty/</link>
+    <description>Recent content in Rahul Shetty on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/rahul-shetty/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Appium(Selenium)-Mobile Automation Testing from Scratch Review</title>
+      <link>https://courseprobe.com/courses/appium-selenium-mobile-automation-testing-from-scratch-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/appium-selenium-mobile-automation-testing-from-scratch-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selenium WebDriver with Java - Basics to Advanced&amp; Interview Review</title>
+      <link>https://courseprobe.com/courses/selenium-webdriver-with-java-basics-to-advanced-interview-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/selenium-webdriver-with-java-basics-to-advanced-interview-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

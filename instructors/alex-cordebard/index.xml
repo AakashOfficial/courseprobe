@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Cordebard on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/alex-cordebard/</link>
+    <description>Recent content in Alex Cordebard on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/alex-cordebard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn 3D Animation - The Ultimate Blender Guide Review</title>
+      <link>https://courseprobe.com/courses/learn-3d-animation-the-ultimate-blender-guide-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/learn-3d-animation-the-ultimate-blender-guide-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

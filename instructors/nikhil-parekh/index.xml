@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikhil Parekh on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/nikhil-parekh/</link>
+    <description>Recent content in Nikhil Parekh on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/nikhil-parekh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction To Python For Ethical Hacking Review</title>
+      <link>https://courseprobe.com/courses/introduction-to-python-for-ethical-hacking-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/introduction-to-python-for-ethical-hacking-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 5 Step Guide to Making Udemy Courses - Unofficial Review</title>
+      <link>https://courseprobe.com/courses/the-5-step-guide-to-making-udemy-courses-unofficial-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/the-5-step-guide-to-making-udemy-courses-unofficial-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Definitive Ethical Hacking Course - Learn From Scratch Review</title>
+      <link>https://courseprobe.com/courses/the-definitive-ethical-hacking-course-learn-from-scratch-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/the-definitive-ethical-hacking-course-learn-from-scratch-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

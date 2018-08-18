@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>In28minutes Official on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/in28minutes-official/</link>
+    <description>Recent content in In28minutes Official on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/in28minutes-official/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java Interview Guide : 200&#43; Interview Questions and Answers Review</title>
+      <link>https://courseprobe.com/courses/java-interview-guide-200-interview-questions-and-answers-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/java-interview-guide-200-interview-questions-and-answers-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn Java Unit Testing with JUnit 5 in 20 Steps Review</title>
+      <link>https://courseprobe.com/courses/learn-java-unit-testing-with-junit-5-in-20-steps-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/learn-java-unit-testing-with-junit-5-in-20-steps-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Master Microservices with Spring Boot and Spring Cloud Review</title>
+      <link>https://courseprobe.com/courses/master-microservices-with-spring-boot-and-spring-cloud-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/master-microservices-with-spring-boot-and-spring-cloud-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Framework Master Class - Beginner to Expert Review</title>
+      <link>https://courseprobe.com/courses/spring-framework-master-class-beginner-to-expert-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/spring-framework-master-class-beginner-to-expert-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring MVC For Beginners : Build Java Web App in 25 Steps Review</title>
+      <link>https://courseprobe.com/courses/spring-mvc-for-beginners-build-java-web-app-in-25-steps-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/spring-mvc-for-beginners-build-java-web-app-in-25-steps-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sundog Education by Frank Kane on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/sundog-education-by-frank-kane/</link>
+    <description>Recent content in Sundog Education by Frank Kane on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/sundog-education-by-frank-kane/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Spark 2.0 with Scala - Hands On with Big Data! Review</title>
+      <link>https://courseprobe.com/courses/apache-spark-2-0-with-scala-hands-on-with-big-data-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/apache-spark-2-0-with-scala-hands-on-with-big-data-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science, Deep Learning, &amp; Machine Learning with Python Review</title>
+      <link>https://courseprobe.com/courses/data-science-deep-learning-machine-learning-with-python-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/data-science-deep-learning-machine-learning-with-python-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming Big Data with Apache Spark and Python - Hands On! Review</title>
+      <link>https://courseprobe.com/courses/taming-big-data-with-apache-spark-and-python-hands-on-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/taming-big-data-with-apache-spark-and-python-hands-on-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming Big Data with Spark Streaming and Scala - Hands On! Review</title>
+      <link>https://courseprobe.com/courses/taming-big-data-with-spark-streaming-and-scala-hands-on-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/taming-big-data-with-spark-streaming-and-scala-hands-on-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ultimate Hands-On Hadoop - Tame your Big Data! Review</title>
+      <link>https://courseprobe.com/courses/the-ultimate-hands-on-hadoop-tame-your-big-data-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/the-ultimate-hands-on-hadoop-tame-your-big-data-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
