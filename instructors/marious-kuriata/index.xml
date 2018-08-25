@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marious Kuriata on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/marious-kuriata/</link>
+    <description>Recent content in Marious Kuriata on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/marious-kuriata/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CCNA 2016 - CCNA 200-125 exam - a complete guide - Cisco Review</title>
+      <link>https://courseprobe.com/courses/ccna-2016-ccna-200-125-exam-a-complete-guide-cisco-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/ccna-2016-ccna-200-125-exam-a-complete-guide-cisco-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cisco ICND1 - CCENT (100-105) - A Complete Guide Review</title>
+      <link>https://courseprobe.com/courses/cisco-icnd1-ccent-100-105-a-complete-guide-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/cisco-icnd1-ccent-100-105-a-complete-guide-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTA: Windows Server Administration Fundamentals: 98-365 Review</title>
+      <link>https://courseprobe.com/courses/mta-windows-server-administration-fundamentals-98-365-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/mta-windows-server-administration-fundamentals-98-365-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

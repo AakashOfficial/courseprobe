@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ermin Dedic on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/ermin-dedic/</link>
+    <description>Recent content in Ermin Dedic on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/ermin-dedic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to Statistics: for Psychology and Business students Review</title>
+      <link>https://courseprobe.com/courses/intro-to-statistics-for-psychology-and-business-students-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/intro-to-statistics-for-psychology-and-business-students-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn SAS and Become a Data Ninja Review</title>
+      <link>https://courseprobe.com/courses/learn-sas-and-become-a-data-ninja-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/learn-sas-and-become-a-data-ninja-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

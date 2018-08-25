@@ -37,5 +37,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>SQL Advanced Review</title>
+      <link>https://courseprobe.com/courses/sql-advanced-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/sql-advanced-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Tuning Review</title>
+      <link>https://courseprobe.com/courses/sql-tuning-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/sql-tuning-review/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shashi R on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/shashi-r/</link>
+    <description>Recent content in Shashi R on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/shashi-r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rest API/Web Services testing with SoapUI&#43;Realtime scenarios Review</title>
+      <link>https://courseprobe.com/courses/rest-api-web-services-testing-with-soapui-realtime-scenarios-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/rest-api-web-services-testing-with-soapui-realtime-scenarios-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

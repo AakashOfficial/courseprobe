@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt Carey on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/matt-carey/</link>
+    <description>Recent content in Matt Carey on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/matt-carey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cisco CCNA ICND1 100-105 (CCENT) Review</title>
+      <link>https://courseprobe.com/courses/cisco-ccna-icnd1-100-105-ccent-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/cisco-ccna-icnd1-100-105-ccent-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

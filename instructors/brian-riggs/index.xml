@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Riggs on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/brian-riggs/</link>
+    <description>Recent content in Brian Riggs on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/brian-riggs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn Classical Guitar Technique and play &#34;Spanish Romance&#34; Review</title>
+      <link>https://courseprobe.com/courses/learn-classical-guitar-technique-and-play-spanish-romance-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/learn-classical-guitar-technique-and-play-spanish-romance-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

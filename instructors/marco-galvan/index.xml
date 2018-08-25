@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Galvan on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/marco-galvan/</link>
+    <description>Recent content in Marco Galvan on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/marco-galvan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Audio Mastering: the complete guide Review</title>
+      <link>https://courseprobe.com/courses/audio-mastering-the-complete-guide-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/audio-mastering-the-complete-guide-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Professional Audio Equalization (EQ) Techniques and Tips Review</title>
+      <link>https://courseprobe.com/courses/professional-audio-equalization-eq-techniques-and-tips-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/professional-audio-equalization-eq-techniques-and-tips-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

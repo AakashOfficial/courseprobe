@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rick Crisci on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/rick-crisci/</link>
+    <description>Recent content in Rick Crisci on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/rick-crisci/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clear and Simple VMware NSX 6.2 and vSphere Virtual Networks Review</title>
+      <link>https://courseprobe.com/courses/clear-and-simple-vmware-nsx-6-2-and-vsphere-virtual-networks-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/clear-and-simple-vmware-nsx-6-2-and-vsphere-virtual-networks-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

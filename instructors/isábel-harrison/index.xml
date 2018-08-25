@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isábel Harrison on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/is%C3%A1bel-harrison/</link>
+    <description>Recent content in Isábel Harrison on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/is%C3%A1bel-harrison/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Access VBA: The Beginner&#39;s Blueprint to Programming Access Review</title>
+      <link>https://courseprobe.com/courses/access-vba-the-beginner-s-blueprint-to-programming-access-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/access-vba-the-beginner-s-blueprint-to-programming-access-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excel VBA: The VBA Beginner&#39;s Blueprint to Programming Excel Review</title>
+      <link>https://courseprobe.com/courses/excel-vba-the-vba-beginner-s-blueprint-to-programming-excel-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/excel-vba-the-vba-beginner-s-blueprint-to-programming-excel-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

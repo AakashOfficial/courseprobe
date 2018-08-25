@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prashant Gupta on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/prashant-gupta/</link>
+    <description>Recent content in Prashant Gupta on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/prashant-gupta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn to create eLearning courses using Articulate Storyline Review</title>
+      <link>https://courseprobe.com/courses/learn-to-create-elearning-courses-using-articulate-storyline-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/learn-to-create-elearning-courses-using-articulate-storyline-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

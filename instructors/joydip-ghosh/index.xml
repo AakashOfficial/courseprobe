@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joydip Ghosh on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/joydip-ghosh/</link>
+    <description>Recent content in Joydip Ghosh on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/joydip-ghosh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS Certified Solution Architect - Associate 2018 Review</title>
+      <link>https://courseprobe.com/courses/aws-certified-solution-architect-associate-2018-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/aws-certified-solution-architect-associate-2018-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Mathematics Complete Course Review</title>
+      <link>https://courseprobe.com/courses/discrete-mathematics-complete-course-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/discrete-mathematics-complete-course-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

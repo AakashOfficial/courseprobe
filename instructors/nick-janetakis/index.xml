@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nick Janetakis on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/nick-janetakis/</link>
+    <description>Recent content in Nick Janetakis on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/nick-janetakis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Docker for DevOps course: From development to production Review</title>
+      <link>https://courseprobe.com/courses/the-docker-for-devops-course-from-development-to-production-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/the-docker-for-devops-course-from-development-to-production-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
