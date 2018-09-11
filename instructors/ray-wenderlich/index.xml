@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ray Wenderlich on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/ray-wenderlich/</link>
+    <description>Recent content in Ray Wenderlich on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/ray-wenderlich/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iOS 11 and Swift 4 for Beginners: 200&#43; Hands-On Tutorials Review</title>
+      <link>https://courseprobe.com/courses/ios-11-and-swift-4-for-beginners-200-hands-on-tutorials-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/ios-11-and-swift-4-for-beginners-200-hands-on-tutorials-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
