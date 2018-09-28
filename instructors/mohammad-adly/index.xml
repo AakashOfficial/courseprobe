@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammad Adly on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/mohammad-adly/</link>
+    <description>Recent content in Mohammad Adly on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/mohammad-adly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computer Networks Security from Scratch to Advanced Review</title>
+      <link>https://courseprobe.com/courses/computer-networks-security-from-scratch-to-advanced-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/computer-networks-security-from-scratch-to-advanced-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
