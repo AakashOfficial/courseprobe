@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Craig Beck on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/craig-beck/</link>
+    <description>Recent content in Craig Beck on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/craig-beck/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Millionaire University Review</title>
+      <link>https://courseprobe.com/courses/millionaire-university-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/millionaire-university-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

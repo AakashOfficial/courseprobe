@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kawser Ahmed on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/kawser-ahmed/</link>
+    <description>Recent content in Kawser Ahmed on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/kawser-ahmed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Analysis Excel for Beginners: Statistical Data Analysis Review</title>
+      <link>https://courseprobe.com/courses/data-analysis-excel-for-beginners-statistical-data-analysis-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/data-analysis-excel-for-beginners-statistical-data-analysis-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

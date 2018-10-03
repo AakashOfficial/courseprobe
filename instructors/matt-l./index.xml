@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt L. on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/matt-l./</link>
+    <description>Recent content in Matt L. on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/matt-l./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fundamentals of Remote Sensing and Geospatial Analysis Review</title>
+      <link>https://courseprobe.com/courses/fundamentals-of-remote-sensing-and-geospatial-analysis-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/fundamentals-of-remote-sensing-and-geospatial-analysis-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

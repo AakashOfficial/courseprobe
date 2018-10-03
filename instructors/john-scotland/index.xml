@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Scotland on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/john-scotland/</link>
+    <description>Recent content in John Scotland on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/john-scotland/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video Making Secrets with your iPhone and iPad Review</title>
+      <link>https://courseprobe.com/courses/video-making-secrets-with-your-iphone-and-ipad-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/video-making-secrets-with-your-iphone-and-ipad-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
