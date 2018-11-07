@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bradley Wascher on Online Course Review</title>
+    <link>https://courseprobe.com/instructors/bradley-wascher/</link>
+    <description>Recent content in Bradley Wascher on Online Course Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://courseprobe.com/instructors/bradley-wascher/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Maya after knowing 3ds Max : Modeling Review</title>
+      <link>https://courseprobe.com/courses/learning-maya-after-knowing-3ds-max-modeling-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://courseprobe.com/courses/learning-maya-after-knowing-3ds-max-modeling-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
